@@ -29,3 +29,11 @@ h3 {
 a:link, a:visited {
     color: #7fffd4;
 }
+
+footer {
+    text-align: right;
+}
+
+footer p {
+    color: #808080;
+}
